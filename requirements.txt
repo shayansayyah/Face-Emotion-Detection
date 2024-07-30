@@ -1,0 +1,9 @@
+fer
+numpy
+tensorflow==1.7
+emoji
+opencv-contrib-python==3.3.0.9
+imutils
+opencv-python==4.3.0.36
+operator
+PIL
