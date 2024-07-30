@@ -48,4 +48,4 @@ Thanks for you attention and we hope you enjoy the program.
 
 Shayan and Kosar.
 
-This project has been done by Kosar Mozafarzade and Shayan Attar Sayyah.  
+This project has been done by Shayan Attar Sayyah and Kosar Mozafarzade.  
